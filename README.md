@@ -109,7 +109,7 @@ Without these files, the GUI may open, but adapter discovery and gateway start/s
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Floxu1/UAC-GATEWAY.git
 cd YOUR-REPOSITORY
 ```
 
