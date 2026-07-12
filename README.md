@@ -1,6 +1,10 @@
 # UAC Gateway
 
 **Language / زبان:** **English** | [فارسی](README.fa.md)
+---
+[کانال تلگرام](https://t.me/UacSniSpoofer): `t.me/UacSniSpoofer`
+
+---
 
 UAC Gateway is a Windows desktop tool for sharing an active VPN route or a configured local proxy source with TVs and other LAN devices that do not support VPN clients directly.
 
