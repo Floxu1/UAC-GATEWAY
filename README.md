@@ -109,7 +109,7 @@ Without these files, the GUI may open, but adapter discovery and gateway start/s
 
 ```powershell
 git clone https://github.com/Floxu1/UAC-GATEWAY.git
-cd YOUR-REPOSITORY
+cd UAC-GATEWAY
 ```
 
 ### 2. Create a virtual environment
