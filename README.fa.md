@@ -109,8 +109,8 @@ gateway.ps1
 ### 1. کلون کردن ریپازیتوری
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Floxu1/UAC-GATEWAY.git
+cd UAC-GATEWAY
 ```
 
 ### 2. ساخت محیط مجازی
