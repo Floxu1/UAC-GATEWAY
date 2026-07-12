@@ -48,10 +48,8 @@ Backup DNS: 208.67.222.222
 
 ## Screenshot
 
-Place your screenshot at `assets/uac_gateway_preview.png` and GitHub will show it here:
-
 ```md
-![UAC Gateway preview](assets/uac_gateway_preview.png)
+i'll upload it soon
 ```
 
 ---
