@@ -47,10 +47,7 @@ Backup DNS: 208.67.222.222
 ---
 
 ## Screenshot
-
-```md
-i'll upload it soon
-```
+<img width="1108" height="822" alt="Screenshot 2026-07-12 134120" src="https://github.com/user-attachments/assets/b5a2d69e-ea81-491b-9845-f4cf8c7b4d86" />
 
 ---
 
