@@ -49,9 +49,7 @@ Backup DNS: 208.67.222.222
 ## تصویر برنامه
 
 
-```md
-i'll upload it soon
-```
+<img width="1106" height="834" alt="Screenshot 2026-07-12 134433" src="https://github.com/user-attachments/assets/322aed1c-649d-4403-8f90-fe6ddd9eac52" />
 
 ---
 
