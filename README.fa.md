@@ -48,7 +48,6 @@ Backup DNS: 208.67.222.222
 
 ## تصویر برنامه
 
-تصویر برنامه را در مسیر `assets/uac_gateway_preview.png` قرار دهید تا GitHub آن را نمایش دهد:
 
 ```md
 i'll upload it soon
