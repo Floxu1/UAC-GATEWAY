@@ -89,7 +89,6 @@ UAC-Gateway/
   discover.ps1
   gateway.ps1
   assets/
-    uac_gateway_preview.png
   data/                   # generated at runtime; do not commit
 ```
 
