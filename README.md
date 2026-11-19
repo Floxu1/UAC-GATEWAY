@@ -12,6 +12,7 @@ The app provides a PySide6 GUI, detects VPN/LAN interfaces, requests administrat
 
 > This project changes Windows routing, IP forwarding and optionally NAT settings. Use it only on networks and devices you own or are authorized to manage.
 
+> **Important:** Keep the Windows PC powered on and connected to the VPN while sharing its connection with other devices.
 ---
 
 ## Features
